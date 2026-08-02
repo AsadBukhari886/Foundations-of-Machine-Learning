@@ -12,28 +12,27 @@ A beginner-friendly, industry-standard machine learning course delivered in **1-
 
 ## Trainers
 
-| Name | Focus Area |
+| Name |
 |------|------------|
-| Asad Bukhari | ML Foundations & Statistics |
-| Ayesha Andleeb | Python & Data Handling |
-| Hijab Zahra | Supervised Learning (Regression & Classification) |
-| Manhoor Iqbal | Ensemble Learning, Model Evaluation & Reinforcement Learning |
-| Staiesh Fatima | Feature Engineering, Unsupervised Learning & Project Work |
+| Asad Bukhari |
+| Ayesha Andleeb |
+| Hijab Zahra |
+| Manhoor Iqbal |
+| Staiesh Fatima |
 
 ---
 
-## Week 1: Foundations — Thinking Like a Machine Learning Practitioner
-
+## Week 1: Orientation, Tooling, then ML
+ 
 | Day | Session Title | Trainer | Topics |
 |-----|---------------|---------|--------|
-| 1 | Introduction to Machine Learning |  | What ML is, how it differs from traditional programming, real-world applications, overview of the three learning types (supervised, unsupervised, reinforcement) |
-| 2 | The Machine Learning Workflow |  | Data → model → training → evaluation → prediction; train/test split; why we never test on training data |
-| 3 | Python & Data Handling Essentials |  | Variables, data types, working with tabular data, reading a dataset (rows, columns, features, labels) |
-| 4 | Data Cleaning & Preprocessing |  | Handling missing values, duplicates, inconsistent data, basic data quality checks |
-| 5 | Data Visualization Basics |  | Why visualize data first, simple charts (bar, scatter, histogram), spotting patterns and outliers visually |
-
-**Week 1 Outcome:** Students understand what ML is, why data quality matters, and can look at a dataset and describe its structure and potential issues.
-
+| 1 | Course Orientation & Expectations |  | Course outline walkthrough, what students will be able to do by the end, how sessions will run (concept + practice each day), ground rules and etiquette, meet the 5 trainers, open floor for frequently asked questions |
+| 2 | NumPy Essentials |  | What NumPy is and why it matters, arrays vs. plain lists, basic array operations, indexing/slicing — the foundation almost every ML library is built on |
+| 3 | Pandas Essentials & Data Cleaning |  | What Pandas is, DataFrames and Series, reading a dataset (CSV), selecting rows/columns, handling missing values and duplicates, simple charts to spot patterns and outliers |
+| 4 | Introduction to Scikit-learn |  | What scikit-learn is and why it's the industry-standard ML library, its consistent fit/predict pattern, loading a sample dataset, training a first toy model end-to-end |
+| 5 | Introduction to Machine Learning |  | What ML is, how it differs from traditional programming, real-world applications, overview of the three learning types (supervised, unsupervised, reinforcement), the ML workflow (data → model → train → evaluate → predict) and train/test split |
+ 
+**Week 1 Outcome:** Students know what to expect from the course, are comfortable with NumPy arrays and Pandas DataFrames, have seen scikit-learn's basic pattern in action, and now understand what machine learning is and how these tools fit into the bigger picture.
 ---
 
 ## Week 2: Supervised Learning — Building and Judging Models
