@@ -12,8 +12,7 @@ A beginner-friendly, industry-standard machine learning course delivered in **1-
 
 ## Trainers
 
-| Name |
-|------|------------|
+
 | Asad Bukhari |
 | Ayesha Andleeb |
 | Hijab Zahra |
