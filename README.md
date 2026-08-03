@@ -42,7 +42,7 @@ A beginner-friendly, industry-standard machine learning course delivered in **1-
 |-----|---------------|---------|--------|
 | 6 | Simple Linear Regression & Cost Function |  | What linear regression predicts and how; fitting a line to data with a real example (predicting salary from experience); what a cost function measures (how "wrong" a line is); a light touch on why MSE is preferred over MAE (it penalizes big errors more, and works better with gradient descent, explained intuitively rather than mathematically) |
 | 7 | Gradient Descent: How Models Actually Learn |  | The intuition of "rolling downhill" to find the lowest error, no formal derivative or partial derivative math, just the conceptual picture of adjusting the line step by step to reduce the cost function; a simple visual or animation showing convergence |
-| 8 | Multiple Linear Regression & One-Hot Encoding |  | Predicting with more than one feature (salary from experience, education, and city); why categorical data like "city" can't go directly into a model; one-hot encoding explained as turning categories into yes/no columns |
+| 8 | Multiple Linear Regression |  | Predicting with more than one feature (salary from experience, education, and city); why categorical data like "city" can't go directly into a model; one-hot encoding explained as turning categories into yes/no columns |
 | 9 | Polynomial Regression, Overfitting & Underfitting |  | When a straight line isn't enough, fitting curves to data; what happens when a model gets too curvy (overfitting) or too simple (underfitting), shown visually with three fits side by side |
 | 10 | Student Presentation & Revision Day |  | Students take turns presenting and repeating back the week's concepts: cost function, gradient descent intuition, multiple regression, one-hot encoding, polynomial regression, and overfitting/underfitting; trainers facilitate and correct misunderstandings |
 
@@ -52,7 +52,7 @@ A beginner-friendly, industry-standard machine learning course delivered in **1-
 
 | Day | Session Title | Trainer | Topics |
 |-----|---------------|---------|--------|
-| 11 | Feature Engineering |  | What features are, why better features beat more data, simple transformations (scaling, encoding categories) |
+| 11 | Feature Engineering & One-Hot Encoding |  | What features are, why better features beat more data, simple transformations (scaling, encoding categories) |
 | 12 | Introduction to Unsupervised Learning |  | What it means to learn without labels, when and why it's used, real-world examples (customer segmentation, recommendation grouping) |
 | 13 | Clustering Basics |  | K-means clustering intuition, grouping similar data points, hands-on visual clustering example |
 | 14 | Dimensionality Reduction & Anomaly Detection |  | Simplifying data while keeping what matters (conceptual PCA), spotting unusual data points (fraud/anomaly example) |
