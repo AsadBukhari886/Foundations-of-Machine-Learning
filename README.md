@@ -36,17 +36,15 @@ A beginner-friendly, industry-standard machine learning course delivered in **1-
 
 ---
 
-## Week 2: Supervised Learning — Building and Judging Models
+# Week 2: Supervised Learning, Regression Deep Dive
 
 | Day | Session Title | Trainer | Topics |
 |-----|---------------|---------|--------|
-| 6 | Statistics for Machine Learning |  | Mean, median, variance, standard deviation, correlation — just enough to understand model behavior |
-| 7 | Regression: Predicting Numbers |  | Linear regression intuition, fitting a line to data, real-world example (predicting price/salary) |
-| 8 | Classification: Predicting Categories |  | Classification concept, decision trees explained as a flowchart of questions, simple hands-on example |
-| 9 | Ensemble Learning: Wisdom of Many Models |  | Why combining models works better than one, random forest intuition, brief mention of boosting |
-| 10 | Model Evaluation & Fine-Tuning |  | Accuracy, precision, recall explained with relatable examples; overfitting vs. underfitting; bias-variance tradeoff |
-
-**Week 2 Outcome:** Students can build a basic regression and classification model, and explain whether a model is performing well or poorly — and why.
+| 6 | Simple Linear Regression & Cost Function |  | What linear regression predicts and how; fitting a line to data with a real example (predicting salary from experience); what a cost function measures (how "wrong" a line is); a light touch on why MSE is preferred over MAE (it penalizes big errors more, and works better with gradient descent, explained intuitively rather than mathematically) |
+| 7 | Gradient Descent: How Models Actually Learn |  | The intuition of "rolling downhill" to find the lowest error, no formal derivative or partial derivative math, just the conceptual picture of adjusting the line step by step to reduce the cost function; a simple visual or animation showing convergence |
+| 8 | Multiple Linear Regression & One-Hot Encoding |  | Predicting with more than one feature (salary from experience, education, and city); why categorical data like "city" can't go directly into a model; one-hot encoding explained as turning categories into yes/no columns |
+| 9 | Polynomial Regression, Overfitting & Underfitting |  | When a straight line isn't enough, fitting curves to data; what happens when a model gets too curvy (overfitting) or too simple (underfitting), shown visually with three fits side by side |
+| 10 | Student Presentation & Revision Day |  | Students take turns presenting and repeating back the week's concepts: cost function, gradient descent intuition, multiple regression, one-hot encoding, polynomial regression, and overfitting/underfitting; trainers facilitate and correct misunderstandings |
 
 ---
 
